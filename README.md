@@ -1,6 +1,7 @@
 # Identifying Humans in Drone Footage from Local Beaches
 This folder houses code and documents from my second capstone project with SpringBoard. 
-Completed: Feb 2020 by Echelle Burns
+<br>
+Completed Feb 2020 by Echelle Burns
 
 # Table of Contents: General Information 
 <br>
