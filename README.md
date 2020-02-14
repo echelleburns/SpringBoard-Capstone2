@@ -74,3 +74,5 @@ Completed Feb 2020 by Echelle Burns
 > model.hd5 == the resulting model generated from my local drive from the entire dataset
 <br>
 > load_model.py == example for how to load the hd5 model into your own drive
+<br> 
+> Model_Evaluation == contains a notebook that plots the residuals of the models
