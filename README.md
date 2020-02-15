@@ -72,6 +72,7 @@ Completed Feb 2020 by Echelle Burns
     convergence plot for the training and testing datasets
 <br>
 > model.hd5 == the resulting model generated from my local drive from the entire dataset
+<br>
 > balanced_model.hd5 == the resulting model generated from my local drive using a dataset balanced
     for equal numbers of images without people and images with people
 <br>
